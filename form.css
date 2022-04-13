@@ -1,0 +1,29 @@
+body{
+    padding: 80px;
+    background-color:rgb(40, 4, 59);
+}
+form{
+    padding: 50px;
+    margin:10;
+    border-radius: 20px;
+    background-color:rgb(196, 195, 198);
+}
+h1{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.925);
+    border-radius: 10px;
+    background-color: rgb(196, 195, 198);
+    padding: 10px;
+}
+h4{
+    color: white;
+
+}
+button{
+    text-align: center;
+    color: rgb(0, 0, 0);
+    align-items: center;
+}
+fieldset{
+    border-radius: 10px;
+}
